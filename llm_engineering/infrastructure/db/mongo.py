@@ -1,4 +1,3 @@
-from llm_engineering.infrastructure.db.mongo import MongoDatabaseConnector
 from loguru import logger
 from pymongo import MongoClient
 from pymongo.errors import ConnectionFailure
